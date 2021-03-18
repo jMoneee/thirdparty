@@ -21,7 +21,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.codice.thirdparty</groupId>
     <artifactId>tika-bundle</artifactId>
-    <version>1.24.1_1</version>
+    <version>1.25_1</version>
 
     <name>Codice :: Thirdparty :: Apache Tika OSGi Bundle</name>
     <packaging>bundle</packaging>
@@ -34,7 +34,7 @@
     </description>
 
     <properties>
-        <tika.version>1.24.1</tika.version>
+        <tika.version>1.25</tika.version>
     </properties>
 
     <dependencies>
